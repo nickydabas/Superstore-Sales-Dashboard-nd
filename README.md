@@ -7,20 +7,7 @@ Analyze trends over time: Monthly and yearly sales & profit growth.
 
 Deep dive into business drivers: Categories, Subcategories, Segments, Regions, Payment & Ship Modes.
 
-Provide forecasting: Project future sales based on historical patterns (if included) 
-Reddit
-+3
-GitHub
-+3
-GitHub
-+3
-GitHub
-+3
-GitHub
-+3
-GitHub
-+3
-.
+Provide forecasting: Project future sales based on historical patterns.
 
 🛠 Tools & Skills
 Power BI Desktop for dashboard design and modeling
